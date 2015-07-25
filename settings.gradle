@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'JyTeaser-1.0'
+rootProject.name = 'JTeaser-1.0'
