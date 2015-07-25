@@ -1,4 +1,4 @@
-package com.java.util;
+package com.dlucci;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -19,7 +19,7 @@ import com.gravity.goose.Goose;
 /**
  * Created by derlucci on 7/11/15.
  *
- * This program was written because I was having problems getting PyTeaser (https://github.com/xiaoxu193/PyTeaser/) to
+ * This program was written because I was having problems getting com.dlucci.PyTeaser (https://github.com/xiaoxu193/com.dlucci.PyTeaser/) to
  * run in java so I ported the code.  I did not come up with any of this logic.  Full credit goes to github.com/xiaoxu194
  * for that
  */
